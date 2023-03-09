@@ -1,1 +1,1 @@
-Shell Permissions
+Sell Permissions
